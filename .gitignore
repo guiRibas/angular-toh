@@ -37,3 +37,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+
+# Para todos os arquivos e sub-pastas localizados na pasta node_modules/
+node_modules/
